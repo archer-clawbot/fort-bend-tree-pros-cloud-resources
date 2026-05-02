@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archer-clawbot.github.io/fort-bend-tree-pros-cloud-resources/sitemap.xml
