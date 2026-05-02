@@ -33,3 +33,10 @@ Fort Bend Tree Pros is a hidden-address service-area tree service business servi
 - Public repository: https://github.com/archer-clawbot/fort-bend-tree-pros-cloud-resources
 - GitHub Pages: https://archer-clawbot.github.io/fort-bend-tree-pros-cloud-resources/
 - Public gist: https://gist.github.com/archer-clawbot/6078034e1f4809ab9c1008269a4fe07e
+## Wave 3 Google assets
+
+- Google Form estimate request: https://docs.google.com/forms/d/e/1FAIpQLScglKuY1fiMijqH2j7A1LUASAmDEHCG0KHD-EwnpjyrYZzkiw/viewform
+- Emergency tree service support doc: https://docs.google.com/document/d/1s4RECHpy01uCN4K5zXE85E_vTOhBfUtWUHgj7V6Chmo/edit?usp=drivesdk
+- Tree removal safety checklist support doc: https://docs.google.com/document/d/1t-DnnEhcC6v729v6nPcqpE6f7XfmAw1FhjKwC-DSqAA/edit?usp=drivesdk
+- Tree trimming timing guide support doc: https://docs.google.com/document/d/1_aoMt1vclJSsJscttn7lEtHmNnQ0g1z0gT6lYxNEAcg/edit?usp=drivesdk
+
