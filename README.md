@@ -45,4 +45,9 @@ Fort Bend Tree Pros is a hidden-address service-area tree service business servi
 - Emergency Tree Service in Fort Bend County: What Homeowners Should Know: https://fort-bend-tree-pros-resources.blogspot.com/2026/05/emergency-tree-service-in-fort-bend.html
 - Tree Removal Safety Checklist for Fort Bend County Homes: https://fort-bend-tree-pros-resources.blogspot.com/2026/05/tree-removal-safety-checklist-for-fort.html
 - Tree Trimming Timing Guide for Katy and Fort Bend County: https://fort-bend-tree-pros-resources.blogspot.com/2026/05/tree-trimming-timing-guide-for-katy-and.html
+## Wave 3 Google Sites hub
+
+- Google Sites hub: https://sites.google.com/fortbendtreepros.com/fort-bend-tree-pros-resources
+- Purpose: Google-native umbrella hub for Form, Docs, Blogger, GBP, website, and GitHub Pages discovery layer.
+- SAB policy: service-area business wording only; no public storefront street address.
 
