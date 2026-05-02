@@ -50,4 +50,9 @@ Fort Bend Tree Pros is a hidden-address service-area tree service business servi
 - Google Sites hub: https://sites.google.com/fortbendtreepros.com/fort-bend-tree-pros-resources
 - Purpose: Google-native umbrella hub for Form, Docs, Blogger, GBP, website, and GitHub Pages discovery layer.
 - SAB policy: service-area business wording only; no public storefront street address.
+## Wave 4 GitHub discovery layer
+
+- GitHub issue resource index: https://github.com/archer-clawbot/fort-bend-tree-pros-cloud-resources/issues/1
+- Repository topics added: fort-bend-tree-pros, tree-service, fort-bend-county, cloud-resources, local-seo
+- Purpose: public discovery/reference layer that reinforces the cloud-resource ecosystem without exposing a hidden SAB address.
 
