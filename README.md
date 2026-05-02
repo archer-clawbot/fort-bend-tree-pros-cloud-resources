@@ -55,4 +55,10 @@ Fort Bend Tree Pros is a hidden-address service-area tree service business servi
 - GitHub issue resource index: https://github.com/archer-clawbot/fort-bend-tree-pros-cloud-resources/issues/1
 - Repository topics added: fort-bend-tree-pros, tree-service, fort-bend-county, cloud-resources, local-seo
 - Purpose: public discovery/reference layer that reinforces the cloud-resource ecosystem without exposing a hidden SAB address.
+## Wave 5 GitHub resource directory
+
+- GitHub Gist resource directory: https://gist.github.com/archer-clawbot/e86d75f536fbcde4e24377e48763ca1b
+- GitHub Release directory asset: https://github.com/archer-clawbot/fort-bend-tree-pros-cloud-resources/releases/tag/wave5-github-resource-directory-20260502142045
+- Purpose: additional public, crawlable GitHub-native discovery layer that reinforces the cloud-resource ecosystem without exposing a hidden SAB address.
+- Wiki note: repository wiki is enabled, but the `.wiki.git` endpoint was not available during this pass; Gist and Release were used instead.
 
