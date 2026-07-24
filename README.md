@@ -62,3 +62,11 @@ Fort Bend Tree Pros is a hidden-address service-area tree service business servi
 - Purpose: additional public, crawlable GitHub-native discovery layer that reinforces the cloud-resource ecosystem without exposing a hidden SAB address.
 - Wiki note: repository wiki is enabled, but the `.wiki.git` endpoint was not available during this pass; Gist and Release were used instead.
 
+## Wave 6 planning and triage resources
+
+- Katy Tree Work Scope Planner: https://fort-bend-tree-scope-planner.vercel.app/
+- Storm-Damaged Tree Triage Google Doc: https://docs.google.com/document/d/1NiC5g-t5KagYbwdX0ovzkdWaZ6Dw_NlxhNte820z4VM/edit?usp=sharing
+- Sugar Land Tree Work Planning Guide: https://fort-bend-tree-pros-resources.blogspot.com/2026/07/sugar-land-tree-work-planning-four.html
+- Purpose: diversified public utility, document, and editorial resources across Vercel, Google Docs, and Blogger, with destination coverage for all nine Wave 6 priority service pages.
+- SAB policy: service-area wording only; no public storefront street address.
+
